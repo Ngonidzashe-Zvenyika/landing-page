@@ -7,7 +7,7 @@ Improve `flexbox` skills
 ## Skills Used
 1. HTML
 2. CSS
-3. GitHUb
+3. GitHub
 
 #### Layout: 
 * The Odin Project
